@@ -1,0 +1,9 @@
+h1{
+    font-size: 4rem;
+    text-transform: capitalize;
+    font-weight: bold;
+}   
+
+span{
+    color: var(--main-color);
+}  
